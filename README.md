@@ -4,7 +4,8 @@ https://portal.tech-base.net/storage/userfile/u45259/mission_5-1.php
  
 # DEMO
  
-<img src="https://raw.github.com/wiki/prase-stack/noticeboard/holiday.gif">
+README.md
+「![Gif](https://raw.github.com/wiki/praise-stack/noticeboard.wiki/holiday.gif)」
  
 # Usage
  
